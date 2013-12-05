@@ -1,0 +1,115 @@
+/* Global==============*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+
+body {
+  	font-family: 'Open Sans', sans-serif;
+  	font-weight: 300;
+ 	line-height: 1.8em;
+  	color:#4D4D4D;
+	background: #fff;
+	width: 96%;
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.container,
+footer nav {
+	margin: 0 auto;
+	width: 100%;
+}
+
+
+/* Header===============*/
+header {
+	position: relative;
+}
+header img {
+	width: 100%;
+}
+
+header li {
+	float: left;
+	list-style: none;
+	margin: 0 10px;
+}
+
+header ul {
+	clear: both;
+	margin: 0;
+}
+
+header nav li:nth-child(1) {
+	margin-left: 24.68%;
+}
+
+header nav {
+	position: absolute;
+	left: 0;
+	top: 90%;
+	margin: 2% 0 2% 0;
+	width: 100%;
+		
+}
+
+nav a:link {
+	color: #666;
+	text-decoration: none;
+}
+
+nav a:hover {
+	background: #606;
+	color: #fff;	
+}
+
+
+/* Section==============*/
+section {
+	padding: 2% 0 0 0;	
+}
+
+
+
+/* Article 1============*/
+.intro h1 {
+	margin-top: 2%;	
+}
+
+p {
+	float: left;
+	text-indent: 3%;	
+}
+.intro p {
+	width: 60%;
+	padding: 0 0 2% 2%;
+}
+
+.intro img {
+	clear: right;
+	float: right;
+	padding: 2% 2% 0 0;
+	width: 36%;	
+}
+
+.intro div {
+	
+}
+
+.intro {
+	margin-bottom: 60%;
+}
+
+
+/* Article 2=============*/
+
+}
+/* Footer================*/
+
+
+/* MEDIA QUERIES+++++++++++++++++++++++*/
+
+/* PHONE=================*/
+
+
+
+/*TABLET=================*/
